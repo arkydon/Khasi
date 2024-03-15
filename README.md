@@ -1,4 +1,4 @@
-# English to Khasi translation cheatsheet
+# Essential Khasi Translations cheatsheet
 > Exceptions and special cases are not mentioned in this sheet
 
 ## Seasons
@@ -83,6 +83,14 @@
 |English|Khasi|
 |----------|-----------------------------------|
 |when / where / how / why|lano / hañgno / kumno / balei|
+
+## Elementals
+|English|Khasi|
+|--|--|
+|fire|diñg|
+|water|um|
+|air|lyer|
+|earth|khyndew|
 
 ## Common Khasi words
 |English|Khasi|
