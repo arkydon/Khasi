@@ -92,6 +92,14 @@
 |air|lyer|
 |earth|khyndew|
 
+## Asking for directions
+|English|Khasi|
+|--|--|
+|Where is this?|Shano kane?|
+|What is this place called?|Kane jaka kyrteng aiu? |
+|How do I get to Shillong?|Kumno ngan poi sha Shillong?|
+
+
 ## Common Khasi words
 |English|Khasi|
 |----------|-----------------------------------|
