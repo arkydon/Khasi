@@ -1,5 +1,4 @@
-# Khasi
-English to Khasi translations of common words
+# Essential Khasi Translations cheatsheet
 > Exceptions and special cases are not mentioned in this sheet
 
 ## Seasons
@@ -7,41 +6,41 @@ English to Khasi translations of common words
 
 | English| Khasi |
 |-------------|-----------------------------|
-|January|’nai-kyllalyngkot|
-|February|’nai-rymphang|
+|January|’nai-kyllalyñgkot|
+|February|’nai-rymphañg|
 |March|’nai-lber|
-|April|’nai-iaiong|
-|May|’nai-jymmang|
+|April|’nai-iaioñg|
+|May|’nai-jymmañg|
 |June|’nai-jylliew|
-|July|’nai-tung|
+|July|’nai-tuñg|
 |August|’nai-lár|
 |September|’nai-lur|
 |October|’nai-risaw|
-|November|’nai-wieng|
+|November|’nai-wieñg|
 |December|’nai-nohprah|
 
 ## Days
 |English|Khasi|
 |----------|-----------------------------------|
-|Saturday|Sngi Saitjain|
-|Sunday|Sngi u Blei|
+|Saturday|Sñgi Saitjain|
+|Sunday|Sñgi u Blei|
 
 |English|Khasi|
 |----------|-----------------------------------|
 |Tomorrow|Lashai|
 |Yesterday|Mynin|
-|Today|Mynta ka sngi|
+|Today|Mynta ka sñgi|
 |Tonight|Mynmiet|
-|Day before yesterday|Mynshisngi|
+|Day before yesterday|Mynshisñgi|
 
 ## Time
 |English|Khasi|
 |----------|-----------------------------------|
 |Morning|Step|
-|Noon|Mynsngi|
+|Noon|Mynsñgi|
 |Evening|Janmiet|
 |Night|Miet|
-|Midnight|Shiteng synñia|
+|Midnight|Shiteñg synñia|
 
 ## Numbers
 |English|Khasi|
@@ -58,7 +57,7 @@ English to Khasi translations of common words
 |Ten|Shiphew|
 
 ## More numbers
-|Numerals|Khasi naming|
+|Numerals|Khasi namiñg|
 |----------|-----------------------------------|
 |11, 12, 13,.. | khat-**wei**, khat-**ar**, khat-**lai**, ....
 |20, 21, 22, 23,..| **ar**-phew, **ar**-phew-**wei**, **ar**-phew-**ar**, **ar**-phew-**lai**,..
@@ -68,11 +67,11 @@ English to Khasi translations of common words
 ## Pronouns
 |English|Khasi|
 |----------|-----------------------------------|
-|you / yours / yourself| phi / jong phi / ma phi|
-|I/mine/myself|nga / jong nga / ma nga|
-|he / his / himself|u / jong u / ma u|
-|she / her / herself|ka / jong ka / ma ka|
-|it / its / itself|ka / jong ka / ma ka|
+|you / yours / yourself| phi / joñg phi / ma phi|
+|I/mine/myself|ñga / joñg ñga / ma ñga|
+|he / his / himself|u / joñg u / ma u|
+|she / her / herself|ka / joñg ka / ma ka|
+|it / its / itself|ka / joñg ka / ma ka|
 
 
 ## Demonstrative pronouns
@@ -83,7 +82,7 @@ English to Khasi translations of common words
 ## Interrogative adverbs
 |English|Khasi|
 |----------|-----------------------------------|
-|when / where / how / why|lano / hangno / kumno / balei|
+|when / where / how / why|lano / hañgno / kumno / balei|
 
 ## Common Khasi words
 |English|Khasi|
@@ -91,13 +90,13 @@ English to Khasi translations of common words
 |How much?|Katno? (pronounced as cut-no)|
 |money|pisa|
 |car|kali|
-|house|iing (pronounced as yay-eng)|
-|give me|ai ia nga (pronounced as eye ya ng-a)|
-|where\what is this|shano\kaei kane|
+|house|iiñg|
+|give me|ai ia ñga (pronounced as eye ya ñg-a)|
+|(where \ what) is this|(shano \ kaei) kane|
 
 ## Pronunciation
 
-**ñg** is a single alphabet
+**ñg** is a siñgle alphabet
 
 It is pronounced as "eng"
 
