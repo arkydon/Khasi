@@ -1,4 +1,4 @@
-# Essential Khasi Translations cheatsheet
+# Some English to Khasi word translations cheatsheet
 > Exceptions and special cases are not mentioned in this sheet
 
 ## Seasons
