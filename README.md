@@ -97,7 +97,7 @@
 |--|--|
 |Where is this?|Shano kane?|
 |What is this place called?|Kane jaka kyrteng aiu? |
-|How do I get to Shillong?|Kumno ngan poi sha Shillong?|
+|How do I get to Shillong?|Kumno ñgan poi sha Shillong?|
 
 
 ## Common Khasi words
