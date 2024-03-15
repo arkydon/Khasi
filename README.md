@@ -1,5 +1,5 @@
 # Essential Khasi Translations cheatsheet
-> Exceptions and special cases are not mentioned in this sheet
+> Exceptions, special cases, alternative translations are not mentioned in this sheet
 
 ## Seasons
 
