@@ -84,6 +84,36 @@
 |----------|-----------------------------------|
 |when / where / how / why|lano / hañgno / kumno / balei|
 
+<!---  
+## Greetings
+|English|Khasi|
+|--|--|
+|How are you?|Kumno phi long?|
+|Thank you|Khublei|
+|||
+--->
+
+## Food
+|English|Khasi|
+|--|--|
+|Food|Jiñgbam|
+|Meat|Doh|
+|Fish|Doh-kha|
+|Beef|Doh-masi|
+|Mutton|Doh-blañg|
+|Pork|Doh-sniañg|
+|Tea|Sha|
+|Vegetables|Jhur|
+|Potato|Phan|
+|Egg|Pylleñg|
+|Rice|Ja|
+|Salt|Mluh|
+|Sugar|Shini|
+|Fruit|Soh|
+
+<!---  Beverages --->
+
+
 ## Elementals
 |English|Khasi|
 |--|--|
